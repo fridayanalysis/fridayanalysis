@@ -59,5 +59,5 @@ Here are the main things I found:
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/zachary-sheppard-544093335)
+- [LinkedIn](https://www.linkedin.com/in/zachary-sheppard-549093335)
 - [Email](mailto:fridayanalysis@gmail.com)
