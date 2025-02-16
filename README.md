@@ -47,7 +47,7 @@ Here are the main things I found:
 3. Some stations have a big gap in usage by casual riders, which could be a chance to convert them to members.
 4. Casual riders are almost twice as likely to return their bikes to the same station they rented them from.
 
-[View the project on GitHub](https://github.com/fridayanalysis/Case-Study)
+[View the project on GitHub](https://github.com/fridayanalysis/Cyclist-Case-Study)
 
 ### Project 2
 
