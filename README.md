@@ -2,6 +2,8 @@
 
 I am a beginner Data Analyst in the USA, eager to expand my knowledge and skills around Data Analysis.
 
+[My Resume](https://github.com/fridayanalysis/fridayanalysis/blob/main/02162024_resume.pdf)
+
 ## 📑 Table of Contents
 - [About Me](#-about-me)
 - [Technologies & Tools](#-technologies--tools)
