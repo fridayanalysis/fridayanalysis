@@ -49,10 +49,6 @@ Here are the main things I found:
 
 [View the project on GitHub](https://github.com/fridayanalysis/Cyclist-Case-Study)
 
-### Project 2
-
-<!-- Project 2 description goes here. Add more projects in a similar format. -->
-
 ## 📜 Certifications
 
 - Google Data Analytics Certificate (Coursera)
