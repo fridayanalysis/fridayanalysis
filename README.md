@@ -9,7 +9,7 @@ I am a beginner Data Analyst in the USA, eager to expand my knowledge and skills
 - [Technologies & Tools](#-technologies--tools)
 - [Projects](#-projects)
   - [Cyclists Membership Acquisition](#cyclists-membership-acquisition)
-  - [Project 2](#project-2)
+  - [Bellabeat Project Placeholder](#bellabeat-project-placeholder)
 - [Certifications](#-certifications)
 - [Contact](#-contact)
 
