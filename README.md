@@ -49,6 +49,10 @@ Here are the main things I found:
 
 [View the project on GitHub](https://github.com/fridayanalysis/Cyclist-Case-Study)
 
+### Bellabeat Project Placeholder
+
+🕵️‍♀️
+
 ## 📜 Certifications
 
 - Google Data Analytics Certificate (Coursera)
