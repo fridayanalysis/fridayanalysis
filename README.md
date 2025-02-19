@@ -31,8 +31,8 @@ I am a beginner Data Analyst in the USA, eager to expand my knowledge and skills
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-- 📊 R (Posit Cloud and R Studio)
-- 🗃️ SQL (BigQuery)
+- 📊 R
+- 🗃️ SQL
 - 📑 Microsoft Office Suite
 - 🌐 Google Workspace
 - 📈 Tableau
