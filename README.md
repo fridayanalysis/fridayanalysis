@@ -9,7 +9,7 @@ I am a beginner Data Analyst in the USA, eager to expand my knowledge and skills
 - [Technologies & Tools](#-technologies--tools)
 - [Projects](#-projects)
   - [Cyclists Membership Acquisition](#cyclists-membership-acquisition)
-  - [Bellabeat Project Placeholder](#bellabeat-project-placeholder)
+  - [Bellabeat Project](#bellabeat-project)
 - [Certifications](#-certifications)
 - [Contact](#-contact)
 
@@ -51,9 +51,15 @@ Here are the main things I found:
 
 [View the project on GitHub](https://github.com/fridayanalysis/Cyclist-Case-Study)
 
-### Bellabeat Project Placeholder
+### Bellabeat Project
 
-🕵️‍♀️
+This project was my second case study for the Google Data Analytics Certificate through Coursera. I again was tasked with a smaller portion of the entire analysis where I was tasked with looking at FitBit user data to gain insights on usage and information for competitor Bellabeats.
+
+My main finding was that sedentary users had impacted sleep.
+
+I suggested that Bellabeat implement this knowledge in their marketing and created expert appeal as they discouraged sedentary lifestyles to boost sleep performance.
+
+[View the project on GitHub](https://github.com/fridayanalysis/Bellabeats-Case-Study)
 
 ## 📜 Certifications
 
